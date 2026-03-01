@@ -1,0 +1,5 @@
+{
+  "name": "TaxRemind PH",
+  "description": "A Telegram bot that reminds Philippine taxpayers of their BIR deadlines for Percentage Tax, VAT, Withholding Tax, and Income Tax with filing instructions.",
+  "requestFramePermissions": []
+}
